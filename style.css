@@ -1,0 +1,106 @@
+body {
+    text-align: center;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+
+#videos iframe {
+    width: 80%;
+}
+
+.class {
+    font-size: 35px;
+}
+
+input {
+    background: grey;
+}
+
+#principal {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.img {
+    height: 300px;
+    width: 360px;
+    border-style: dotted;
+    padding: 5px;
+    border-width: 5px;
+}
+.img:hover {
+    border-color: red;
+    border-style: dashed;
+}
+
+.fac_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.fac_head:hover {
+    background-color: orangered;
+}
+
+.fac_head i {
+    float: right;
+}
+
+.fac_text span {
+    color: #ff7700;
+}
+
+.quals {
+    margin-bottom: 15px;
+}
+
+.content_modal {
+    background-color: white;
+}
+
+.links_people {
+    text-decoration: underline;
+}
